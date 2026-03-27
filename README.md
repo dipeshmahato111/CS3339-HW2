@@ -13,7 +13,7 @@ It determines whether adding the increment to the first number results in no cha
 
 Features
 -Command-line argument handling
--IEEE 754 bit representation using `bitset`
+-IEEE 754 bit representation using "bitset"
 - Overflow detection using floating-point comparison
 - Threshold calculation for overflow
 -Proper formatted output as required
@@ -78,8 +78,8 @@ Files Included
   "README.md" – Documentation file
 
 Authors
-Dipesh Kumar Mahato
-Ritesh Sah
+1. Dipesh Kumar Mahato
+2. Ritesh Sah
 
 Notes
 This program demonstrates how floating-point precision limitations can affect arithmetic operations and lead to unexpected behavior such as overflow conditions.
